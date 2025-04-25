@@ -21,7 +21,7 @@ Flower v2 is a project designed to create a modern and interactive HTML-based ap
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/flower-v2.git
+    git clone [https://github.com/yourusername/flower-v2.git](https://github.com/growjoy/Flower-V2.git)
     ```
 2. Navigate to the project directory:
     ```bash
